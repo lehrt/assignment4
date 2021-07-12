@@ -5,13 +5,15 @@
 h1{
     font-family:Calibri;
     text-align:center;
-    font-size:60px;
+    font-size:50px;
     padding-bottom:10px;
 }
 
 .normal {
     font-family:calibri;
     margin-left:60px;
+    margin-right:10px;
+    margin-bottom:10px;
 }
 h2 {
     margin-top: 30px;
@@ -39,5 +41,17 @@ figure{
 
 .wave{
     padding-top:10px;
+    padding-bottom:10px;
+    border: 0px;
+    margin-right:0px;
+    margin-left:0px;
+}
+
+img{
+    border: 1px solid black;
+}
+
+nav {
+    display: inline;
 }
 
